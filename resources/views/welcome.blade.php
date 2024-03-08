@@ -356,7 +356,6 @@
                                 <div class="staff__position">Frontend Developer</div>
                                 <ul class="staff__top-skills">
                                     <li>
-                                        <img src="{{ asset('images/icons/laravel-icon.png') }}" alt="" width="12" height="12">
                                         <a href="https://msho-norshen.com" class="work" target="_blank">
                                             Laravel
                                         </a>
